@@ -16,7 +16,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### The challenge
 
-The challenge was to create a simple recipe website, considering all the appropiate HTML semantics and adding CSS styling.
+The challenge was to create a simple recipe website, considering all the appropriate HTML semantics and adding CSS styling.
 
 ### Screenshot
 
@@ -24,10 +24,8 @@ The challenge was to create a simple recipe website, considering all the appropi
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-card-challenge-solution-by-rainiero-hU1RykRXrY)
-- Live Site URL: [Add live site URL here](https://blogcardrainiero.netlify.app/)
-
-## My process
+- Solution URL: https://www.frontendmentor.io/solutions/recipe-website-challenge-yVW2LscMCt
+- Live Site URL: https://reciperainiero.netlify.app/
 
 ### Built with
 
