@@ -20,7 +20,7 @@ The challenge was to create a simple recipe website, considering all the appropi
 
 ### Screenshot
 
-<img src="recipe.PNG" width="400px">
+<img src="assets/images/recipe.PNG" width="400px">
 
 ### Links
 
